@@ -270,7 +270,7 @@ if (!isset($cat_register_pages)) {
 
       <div class="sidebar-menu">
 <!-- Homepage -->
-        <a href="dmt_landingpage.php" class="nav-subitem standalone-item <?php echo ($current_page == 'dmt_landingpage.php') ? 'active' : ''; ?>" style="margin-bottom: 8px;">
+        <a href="index.php" class="nav-subitem standalone-item <?php echo ($current_page == 'index.php') ? 'active' : ''; ?>" style="margin-bottom: 8px;">
           <i class="fa-solid fa-house"></i> Homepage
         </a>
 
